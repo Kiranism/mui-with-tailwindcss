@@ -1,3 +1,3 @@
 # Use Mui with the power of TailwindCSS
 
-[Read More](https://kir4n.hashnode.dev/mui-with-tailwind-css)
+<a href="https://www.example.com](https://kir4n.hashnode.dev/mui-with-tailwind-css" target="_blank">Read More</a>
